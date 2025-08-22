@@ -1,4 +1,4 @@
-# Enhanced Employee Performance Management System (EPMS)
+# Employee Performance Management System (EPMS)
 
 ## Overview
 Scalable REST API for Employee Performance Management System built with Spring Boot, JPA, MySQL, and enterprise-grade security features.
